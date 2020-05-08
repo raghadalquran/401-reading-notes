@@ -20,3 +20,5 @@ A simple set of steps to follow which you can use for any algorithm type program
 - Research(google).
 - Practice Practice Practice.
 *I learned from that aricle how valuable my time is and know what’s my Priorities also focus on my goals.*
+> “Pretend your time is worth $1,000/hr. Would you spend five of them doing extra work for free? Would you waste one on being angry?” -Niklas Göke.
+
