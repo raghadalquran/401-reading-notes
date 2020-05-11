@@ -21,5 +21,4 @@ We need to focus on what we are doing **and** that's not mean we are busy.
 1. Plan.
 1. Divide.
 1. Stuck?
-> “Everyone in this country should learn to program a computer, because it teaches you to think.” — Steve Jobs
-
+> “The biggest mistake I see new programmers make is focusing on learning syntax instead of learning how to solve problems.” — V. Anton Spraul
