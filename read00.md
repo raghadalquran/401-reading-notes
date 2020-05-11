@@ -2,26 +2,24 @@
 
 ## How to Solve Programming Problems ##
 
-A simple set of steps to follow which you can use for any algorithm type programming problem :
-1. Read the problem completely twice.
-1. Solve the problem manually with 3 sets of sample data.
-1. Optimize the manual steps.
-1. Write the manual steps as comments or pseudo-code.
-1. Replace the comments or pseudo-code with real code.
-1. Optimize the real code.
+**From the first article I read it**, I understood that I should go throw a set of steps to solve any programming problem.
+*First of all*, Read the problem completely twice(you must understand the problem before you do anything), then try to solve the problem manually and optimize your manual steps.
+*also*, They prefer to write the manual steps as comments or pseudo-code and after that, you can replace the comments or pseudo-code with real code.
+*Finally*, Optimize the real code.
 
-> “Pretend your time is worth $1,000/hr. Would you spend five of them doing extra work for free? Would you waste one on being angry?” -Niklas Göke.
+## Act like you make $1000/hr article ##
+**From the second article** *(Time is the money)*
+#### Pretend Your Time is Worth $1,000/Hour and You’ll Become 100x More Productive. ####
+We need to focus on what we are doing **and** that's not mean we are busy.
+> Extremely successful people don’t tolerate busywork or distraction. They have crystal clear vision on their goals and do what they need to do to get there every single day.
 
-## Another article or steps for *problem-solving* : ##
+**As You Think, So You Are**
+*You teach people how to treat you.*
+
+## How to think like a programmer ##
 1. Understand and explain the problem to others.
 1. Plan.
 1. Divide.
 1. Stuck?
-- Debug.
-- Reassess and look to the problem from different perspective.
-- Research(google).
-- Practice Practice Practice.
-*I learned from that aricle how valuable my time is and know what’s my Priorities also focus on my goals.*
-
 > “Everyone in this country should learn to program a computer, because it teaches you to think.” — Steve Jobs
 
