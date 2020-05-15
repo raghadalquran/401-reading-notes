@@ -20,7 +20,10 @@ The JavaScript ecosystem is a collection of software packages, libraries, and ot
 ### Node.js Module ###
 Module in Node.js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node.js application.
 
+### Node.js Package ###
 Each module in Node.js has its own context, so it cannot interfere with other modules or pollute global scope. Also, each module can be placed in a separate .js file under a separate folder.
+
+A package is a file or directory that is described by a package.json file. A package must contain a package.json file in order to be published to the npm registry. 
 
 ### npm ###
 - npm is the world’s largest Software Registry, And it's **open-source** developers use npm to share software.
