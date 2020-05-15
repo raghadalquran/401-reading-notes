@@ -12,18 +12,16 @@ Node Package Manager (NPM) is a command-line tool that installs, updates, or uni
 ### Provide code snippets showing 3 different ways to export a function from a node module. ###
 
 ### Node.js ###
-What is Node.js?
-Node.js is an open source server environment
-Node.js is free
-Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
-Node.js uses JavaScript on the server.
+- Node.js is an open source server environment and it's free.
+- Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.).
+- Node.js uses JavaScript on the server.
 
 ### Node.js Module ###
 Module in Node.js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node.js application.
 
 Each module in Node.js has its own context, so it cannot interfere with other modules or pollute global scope. Also, each module can be placed in a separate .js file under a separate folder.
 
-### V8 ###
+### V8 Engine ###
 V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ECMAScript and WebAssembly, and runs on Windows 7 or later, macOS 10.12+, and Linux systems that use x64, IA-32, ARM, or MIPS processors. V8 can run standalone, or can be embedded into any C++ application.
 
 ### Compiler vs Interpreter ###
