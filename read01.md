@@ -9,6 +9,11 @@ Running JavaScript outside a browser means you are using node.js technology to e
 ### What does the node package manager do? ###
 Node Package Manager (NPM) is a command-line tool that installs, updates, or uninstalls Node.js packages in your application. It is also an online repository for open-source Node.js packages. 
 
+### Provide code snippets showing 3 different ways to export a function from a node module ###
+1- modules.exports = functionName()
+2- modules.exports = {firstFunction() , secondFunction() }
+3- export function functionName(){return 'some written code'}
+
 ### Ecosystem ###
 The JavaScript ecosystem is a collection of software packages, libraries, and other resources that facilitate development as they integrate with each other. Those tools are created by different developers and providers – for example, the React library is powered by Facebook, while the Angular framework was created by Google, and Vue.js was designed by an independent developer.
 
