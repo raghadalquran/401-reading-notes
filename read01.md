@@ -10,3 +10,23 @@ Running JavaScript outside a browser means you are using node.js technology to e
 Node Package Manager (NPM) is a command-line tool that installs, updates, or uninstalls Node.js packages in your application. It is also an online repository for open-source Node.js packages. 
 
 ### Provide code snippets showing 3 different ways to export a function from a node module. ###
+
+### Node.js ###
+What is Node.js?
+Node.js is an open source server environment
+Node.js is free
+Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+Node.js uses JavaScript on the server.
+
+### Node.js Module ###
+Module in Node.js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node.js application.
+
+Each module in Node.js has its own context, so it cannot interfere with other modules or pollute global scope. Also, each module can be placed in a separate .js file under a separate folder.
+
+### V8 ###
+V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ECMAScript and WebAssembly, and runs on Windows 7 or later, macOS 10.12+, and Linux systems that use x64, IA-32, ARM, or MIPS processors. V8 can run standalone, or can be embedded into any C++ application.
+
+### Compiler vs Interpreter ###
+Compiler and Interpreter are two different ways to execute a program written in a programming or scripting language. A compiler takes entire program and converts it into object code which is typically stored in a file. The object code is also refereed as binary code and can be directly executed by the machine after linking. Examples of compiled programming languages are C and C++.
+
+An Interpreter directly executes instructions written in a programming or scripting language without previously converting them to an object code or machine code. Examples of interpreted languages are Perl, Python and Matlab.
