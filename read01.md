@@ -9,7 +9,8 @@ Running JavaScript outside a browser means you are using node.js technology to e
 ### What does the node package manager do? ###
 Node Package Manager (NPM) is a command-line tool that installs, updates, or uninstalls Node.js packages in your application. It is also an online repository for open-source Node.js packages. 
 
-### Provide code snippets showing 3 different ways to export a function from a node module. ###
+### Ecosystem ###
+The JavaScript ecosystem is a collection of software packages, libraries, and other resources that facilitate development as they integrate with each other. Those tools are created by different developers and providers – for example, the React library is powered by Facebook, while the Angular framework was created by Google, and Vue.js was designed by an independent developer.
 
 ### Node.js ###
 - Node.js is an open source server environment and it's free.
@@ -20,6 +21,10 @@ Node Package Manager (NPM) is a command-line tool that installs, updates, or uni
 Module in Node.js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node.js application.
 
 Each module in Node.js has its own context, so it cannot interfere with other modules or pollute global scope. Also, each module can be placed in a separate .js file under a separate folder.
+
+### npm ###
+- npm is the world’s largest Software Registry, And it's **open-source** developers use npm to share software.
+- Many organizations also use npm to manage private development.
 
 ### V8 Engine ###
 V8 is Google’s open source high-performance JavaScript and WebAssembly engine, written in C++. It is used in Chrome and in Node.js, among others. It implements ECMAScript and WebAssembly, and runs on Windows 7 or later, macOS 10.12+, and Linux systems that use x64, IA-32, ARM, or MIPS processors. V8 can run standalone, or can be embedded into any C++ application.
