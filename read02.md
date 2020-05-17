@@ -1,3 +1,4 @@
+# SUMMARY #
 
 ### Name 3 advantages to Test Driven Development ###
 1. Writing the tests first requires you to really consider what do you want from the code.
@@ -20,5 +21,7 @@ The value of this is determined by how a function is called. It can't be set by 
 Classes are "special functions", the class syntax has two components: class expressions and class declarations.
 - Class declarations
 - Class expressions
+### OOP ###
+Object-oriented programming (OOP) refers to a type of computer programming (software design) in which programmers define the data type of a data structure, and also the types of operations (functions) that can be applied to the data structure.
 
 
