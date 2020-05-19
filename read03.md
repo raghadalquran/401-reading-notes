@@ -13,3 +13,33 @@ MongoDB is an open-source software from MongoDB Inc that is used for non-relatio
 
 ### What is Mongoose and why do we need it?
 Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
+database :
+organized collection of data, generally stored and accessed electronically from a computer system.
+
+#### data model :
+is an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.
+
+ #### CRUD :
+create, read, update, and delete are the four basic functions of persistent storage
+
+ #### schema :
+schema of a database is its structure described in a formal language supported by the database management system.
+
+ #### SQL:
+domain-specific language used in programming and designed for managing data held in a relational database management system
+
+ #### NoSQL :
+a mechanism for storage and retrieval of data that is modeled in means other than the tabular relations used in relational databases.
+
+ #### MongoDB :
+cross-platform document-oriented database program. Classified as a NoSQL database program
+
+ #### Object-relational mapping 
+(ORM, O/RM, and O/R mapping tool) in computer science is a programming technique for converting data between incompatible type systems using object-oriented programming languages. This creates, in effect, a "virtual object database" that can be used from within the programming language.
+
+#### Mongoose :
+Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node. ... It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
+
+ #### Record:
+Is composed of fields and contains all the data about one particular item in a database.
+ 
