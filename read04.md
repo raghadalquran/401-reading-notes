@@ -26,4 +26,19 @@ But relational databases have evolved. They can handle nearly all of the workloa
 ### Name 3 cloud-based NoSQL Databases
 Amazon DynamoDB.
 Amazon SimpleDB.
-Google Cloud Bigtable
+Google Cloud Bigtable.
+
+#### CRUD:
+CREATE, READ, UPDATE, DELETE are the four basic functions of persistent storage.A model should have the ability to perform at most these four functions in order to be complete.
+
+#### DataBase:
+is an organized collection of data, generally stored and accessed electronically from a computer system. Where databases are more complex they are often developed using formal design and modeling techniques.
+
+#### Data Model: 
+is an abstract model that organizes elements of data and standardizes how they relate to one another and to the properties of real-world entities.
+
+#### Schema: 
+refers to the organization of data as a blueprint of how the database is constructed. The formal definition of a database schema is a set of formulas (sentences) called integrity constraints imposed on a database.
+
+#### Sanitize:
+In real world sanitize is to “clean” anything from “bad things”. In computer sciences it means the same thing. Mostly for security purposes, we protect the system from malicious data.
