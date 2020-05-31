@@ -16,4 +16,4 @@ Server testing verifies that the services you need to develop your apps are work
 
 ### Test Pyramid
 The testing pyramid is a concept that helps you to balance your tests better. also, it delivers a graphical representation of a best-case test scenario.
-1. Units. 1.Integration. 1.Acceptance.
+1. Units. 2.Integration. 3.Acceptance.
