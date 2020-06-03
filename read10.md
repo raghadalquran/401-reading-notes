@@ -25,4 +25,5 @@ IsEmpty - returns true when stack is empty otherwise returns false.
 - FILO
 - LIFO
 
+![img](https://res.cloudinary.com/practicaldev/image/fetch/s--Is8YL7Ba--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://cl.ly/d84e17fec485/Image%25202018-09-13%2520at%252012.22.09%2520PM.png)
 
