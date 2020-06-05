@@ -1,6 +1,6 @@
 # SUMMARY
 
-### basic access authentication
+### Basic Access Authentication
 basic access authentication is a method for an HTTP user agent (e.g. a web browser) to provide a user and password when making a request. 
 
 ### JSON Web Token
@@ -14,3 +14,6 @@ Cryptography is the science which studies methods for encoding messages so that 
 
 ### Hash Algorithms
 A Cryptographic Hash Algorithm takes a piece of data and produces a hash that is deliberately difficult to reverse. If identical data is passed into the algorithm the same hash will always be produced. Hash algorithms are often used for checking the integrity of data.
+
+### Cryptography
+![img](https://www.researchgate.net/publication/266872600/figure/fig1/AS:669991296851995@1536749781991/Classification-Of-Cryptography.png)
