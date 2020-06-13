@@ -2,7 +2,7 @@
 
 ## Event-driven programming:
 
-Event-driven programming with javascript is a useful way to create interactive websites.after the webpage has loaded the javascript program continues to run waiting for an event. If you connect this event to a javascript function then the function will run when the event occurs.
+Event-driven programming with javascript is a way to create interactive websites.after the webpage has loaded the javascript program continues to run waiting for an event. If you connect this event to a javascript function then the function will run when the event occurs.
 In computer programming, event-driven programming is a programming paradigm in which the flow of the program is determined by events such as user actions (mouse clicks, key presses),or messages from other programs.
 
 ![img](https://www.tutorialspoint.com/nodejs/images/event_loop.jpg)
