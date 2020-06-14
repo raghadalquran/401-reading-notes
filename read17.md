@@ -16,5 +16,8 @@ The Transmission Control Protocol (TCP) is widely used by application layer prot
 
 ![img](https://miro.medium.com/max/805/0*WcbPv9sWlCl6RV4a)
 
+
 3-way handshakeing termination.
+
+
 ![img](https://lh3.googleusercontent.com/proxy/LbC2JVoSO7dVJRFWjYcvrvkrXfMrrTsQrDNFCGYa0aRKEIyVneXMoKi1YRLFOLhrhQbhc2CVgM5ykwo_5u38cx_fTbHpV_jD9F4pOammI2fLhgA0y0vmehScgDPtYO4DdBuOHbP9wEgyzwVtkWiuBeluvBHrhkqcrYVu)
