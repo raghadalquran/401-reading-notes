@@ -1,6 +1,6 @@
 ## React Component Lifecycle Methods
 
-![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40_ChrisBradshaw%2Fblogdidmount-2018-guide-to-react-component-lifecycle-methods-1614e0bbe80a&psig=AOvVaw11LO0r1smceQuaB5heR0MI&ust=1593591637571000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDgwc-NqeoCFQAAAAAdAAAAABAD)
+![img](https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2018/10/Screen-Shot-2018-10-31-at-1.44.28-PM.png?ssl=1)
 
 ## React’s props.children
 My simple explanation of what this.props.children does is that it is used to display whatever you include between the opening and closing tags when invoking a component.
