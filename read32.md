@@ -14,3 +14,15 @@ Custom Hooks are JavaScript functions whose names are prefixed with the word use
 - so we should fetch our data from an API then updating our 'setResult' state  
     so React.useEffect method will only run when our 'state' got change.  
     
+## 10 Essintial React Hooks :
+1. useArray hook.
+2. react-use-form-state hook.
+3. react-fetch-hook.
+4. useMedia hook.
+5. react-useportal hook.
+6. react-firebase-hooks.
+7. use-onClickOutside hook.
+8. useIntersectionObserver hook.
+9. use-location hook.
+10. use-redux hook.
+
