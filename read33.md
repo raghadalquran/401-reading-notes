@@ -4,3 +4,6 @@ In a typical React application, data is passed top-down (parent to child) via pr
 
 **If you only want to avoid passing some props through many levels, component composition is often a simpler solution than context.**
 
+```React.createContext:```
+When React renders a component that subscribes to this Context object it will read the current context value from the closest matching Provider above it in the tree.
+
