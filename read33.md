@@ -7,3 +7,4 @@ In a typical React application, data is passed top-down (parent to child) via pr
 ```React.createContext:```
 When React renders a component that subscribes to this Context object it will read the current context value from the closest matching Provider above it in the tree.
 
+![image](https://uploads.toptal.io/blog/image/129071/toptal-blog-image-1549323314875-d6bc9c753a4c9ac2911e8af17732023d.png)
