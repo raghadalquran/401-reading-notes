@@ -38,3 +38,8 @@ A Cyclic graph is a graph that has cycles.
 - An Adjacency matrix is represented through a 2-dimensional array. If there are n vertices, then we are looking at an n x n Boolean matrix.
 - Each Row and column represents each vertex of the data structure. The elements of both the column and the row must add up to 1 if there is an edge that connects the two, or zero if there isn’t a connection.
 
+## Weighted Graphs
+A weighted graph is a graph with numbers assigned to its edges. These numbers are called weights. This is what a weighted graph looks like:
+
+![image](https://i.stack.imgur.com/b9AKw.gif)
+
